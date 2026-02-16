@@ -1,2 +1,2 @@
-Preniew:
+Preview:
 <video src="https://github-production-user-asset-6210df.s3.amazonaws.com/117456301/550569495-063e683b-96cb-4abb-b280-cd6db5712cdc.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260216%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260216T173342Z&X-Amz-Expires=300&X-Amz-Signature=0416e860449df440d4e918e3df6c1ceedd85a42109e713540a134dd184f2e4d7&X-Amz-SignedHeaders=host"></video>
